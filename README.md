@@ -1,2 +1,2 @@
 # navigationBar
-The following project is about designing the navigation bar using CSS. 
+The following project is about the designing of navigation bar using CSS. 
